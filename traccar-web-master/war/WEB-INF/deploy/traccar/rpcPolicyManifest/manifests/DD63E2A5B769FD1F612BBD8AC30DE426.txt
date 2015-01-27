@@ -1,0 +1,2 @@
+serviceClass: org.traccar.web.client.model.DataService
+path: F594105D3E40CDDC1E47BB72B81685DC.gwt.rpc
